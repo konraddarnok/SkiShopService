@@ -21,7 +21,7 @@ namespace SkiShopService.Controllers
                new Ski(2, 190, "Slalom", 4500),
                   new Ski(3, 180, "CrossCountry", 3500),
                      new Ski(4, 190, "Freestyle", 4000),
-                      new Ski(5, 190, "Downhill", 5000),
+                      new Ski(5, 190, "Downhill", 65000),
 
         };
         
